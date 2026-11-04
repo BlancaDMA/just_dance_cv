@@ -1,0 +1,6 @@
+   __pycache__/
+   *.pyc
+   .vscode/
+   Lab_Project.pdf
+   *.mp4
+   *.avi
